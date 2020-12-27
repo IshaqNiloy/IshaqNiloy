@@ -14,7 +14,16 @@
 
 <p></p>
 <h2>Education</h2>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/North-South-University-logo-03.png" width="25"></img><b>North South University</b><br>Bachelor's Degree, CSE<br>2015-2020<br>CGPA - 3.66</p>
-<p><b>Beer Shrestha Munshi Abdur Rouf Public College</b><br>Higher Secondary School Certificate(HSC), Science<br>2012 - 2014<br>GPA - 5.0</p>
-<p><b>Beer Shrestha Munshi Abdur Rouf Public College</b><br>Secondary School Certificate(SSC), Science<br>2010 - 2012<br>GPA - 5.0</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/North-South-University-logo-03.png" width="25"></img><b>North South University</b><br>
+&nbsp&nbsp&nbsp Bachelor's Degree, CSE<br>
+&nbsp&nbsp&nbsp 2015-2020<br>
+&nbsp&nbsp&nbsp CGPA - 3.66</p>
+<p><img src="https://media-exp1.licdn.com/dms/image/C510BAQFrcIUgZWEFHg/company-logo_200_200/0/1580546436672?e=2159024400&v=beta&t=orj-SgyTXwg3ETwvM44IVYdjNeWgaZg3TufPs0Q43f0" width="25"></img><b>Beer Shrestha Munshi Abdur Rouf Public College</b><br>
+&nbsp&nbsp&nbsp Higher Secondary School Certificate(HSC), Science<br>
+&nbsp&nbsp&nbsp 2012 - 2014<br>
+&nbsp&nbsp&nbsp GPA - 5.0</p>
+<p><img src="https://media-exp1.licdn.com/dms/image/C510BAQFrcIUgZWEFHg/company-logo_200_200/0/1580546436672?e=2159024400&v=beta&t=orj-SgyTXwg3ETwvM44IVYdjNeWgaZg3TufPs0Q43f0" width="25"></img><b>Beer Shrestha Munshi Abdur Rouf Public College</b><br>
+&nbsp&nbsp&nbsp Secondary School Certificate(SSC), Science<br>
+&nbsp&nbsp&nbsp 2010 - 2012<br>
+&nbsp&nbsp&nbsp GPA - 5.0</p>
 <h2>Licenses and Certifications</h2>
